@@ -3,3 +3,31 @@ body {
   height: 100%;
   margin: 0;
 }
+h1 {
+  text-align: center;
+}
+figure { 
+  justify-content:center;
+  font-size: smaller;
+  text-align: center;
+}
+nav {
+  text-align: center;
+  padding-left: 10px;
+  padding-right: 10px;
+  background-color: grey;
+}
+p. {
+  width: 800px;
+  text-align: center;
+  line-height: 1cm;
+}
+section {
+  text-align: center;
+}
+figcaption {
+  font-size: small;
+}
+section div{
+  float: left;
+}
